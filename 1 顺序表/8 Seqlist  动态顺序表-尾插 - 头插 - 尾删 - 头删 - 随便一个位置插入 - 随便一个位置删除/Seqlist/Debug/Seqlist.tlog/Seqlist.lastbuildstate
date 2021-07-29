@@ -1,0 +1,2 @@
+#TargetFrameworkVersion=v4.0:PlatformToolSet=v120:EnableManagedIncrementalBuild=false:VCToolArchitecture=Native32Bit
+Debug|Win32|F:\姚标\数据结构资料\自己写的数据结构程序\1 顺序表\8 Seqlist  动态顺序表-尾插 - 头插 - 尾删 - 头删 - 随便一个位置插入 - 随便一个位置删除\|
