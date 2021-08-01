@@ -1,0 +1,2 @@
+#TargetFrameworkVersion=v4.0:PlatformToolSet=v120:EnableManagedIncrementalBuild=false:VCToolArchitecture=Native32Bit
+Debug|Win32|F:\姚标\数据结构资料\自己写的数据结构程序\2 链表\双向链表\9 List-初始化(返回值方式，不是二级指针方式) - 尾插 - 头插 - 头删 - 尾删 - 查找 - 查找（附带修改作用） - 随便一个位置插入 - 随便一个位置删除\|
