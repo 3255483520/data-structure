@@ -1,0 +1,2 @@
+#TargetFrameworkVersion=v4.0:PlatformToolSet=v120:EnableManagedIncrementalBuild=false:VCToolArchitecture=Native32Bit
+Debug|Win32|F:\姚标\数据结构资料\自己写的数据结构程序\4 树\6 Tree-前序-中序和后序 - 求二叉树节点的个数（递归方法，这个方法最简单） - 求叶子节点的个数 - 副本\|
