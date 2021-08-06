@@ -1,0 +1,2 @@
+#TargetFrameworkVersion=v4.0:PlatformToolSet=v120:EnableManagedIncrementalBuild=false:VCToolArchitecture=Native32Bit
+Debug|Win32|F:\姚标\数据结构资料\自己写的数据结构程序\5 排序\24 希尔排序 - 测试 插入排序和希尔排序 的速度 - 堆排序（大堆） - 建大堆 - 测试堆排序（大堆）的速度 - 选择排序 - 测试选择排序 - 冒泡排序-测试冒泡排序 - 快速排序1.1（挖坑法） -测试快速排序 - 三数取中 - 小区间优化 - 左右指针法 - 前后指针法 - 归并排序 - 快速排序的非递归 - 归并排序的非递归（无缺陷）-计数排序\|

@@ -1,0 +1,2 @@
+#TargetFrameworkVersion=v4.0:PlatformToolSet=v120:EnableManagedIncrementalBuild=false:VCToolArchitecture=Native32Bit
+Debug|Win32|F:\姚标\数据结构资料\自己写的数据结构程序\5 排序\6 希尔排序 - 测试 插入排序和希尔排序 的速度 - 堆排序（大堆） - 建大堆\|
